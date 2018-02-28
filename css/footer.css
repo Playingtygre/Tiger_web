@@ -1,0 +1,19 @@
+footer {
+  text-align: center;
+  padding: 3%;
+  margin-top: 2em;
+  filter: alpha(opacity=50);
+  /* opacity: .05; */
+  background-color: gray;
+  padding-top: 1.5em;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+  padding: 20PX;
+}
+
+.copyright {
+  font-size: 1em;
+}
